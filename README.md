@@ -31,5 +31,6 @@ Dashboard:
 [Screenshot 2024-07-23 194925](https://github.com/user-attachments/assets/68699de6-ebb5-4cb2-9ff9-ef0448804969)
 
 Link page:
+![Screenshot 2024-07-23 194925](https://github.com/user-attachments/assets/74a42b77-bc10-4e49-8bb6-424cca6ebe1b)
 
 [Screenshot 2024-07-23 194945](https://github.com/user-attachments/assets/2e3cb2e9-461b-4f72-a9a7-17618868fb80)
