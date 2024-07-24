@@ -6,13 +6,7 @@ First, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
@@ -20,17 +14,22 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## Home Page :
 
-To learn more about Next.js, take a look at the following resources:
+![Screenshot 2024-07-23 194752](https://github.com/user-attachments/assets/fdc12c17-dfdc-4680-b1e9-bf800b26a3de)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Sign up:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Screenshot 2024-07-23 194844](https://github.com/user-attachments/assets/a38e063c-159e-4939-a298-21d024a16b7c)
 
-## Deploy on Vercel
+## Sign in:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Screenshot 2024-07-23 194822](https://github.com/user-attachments/assets/ad4e2753-5970-4351-aacf-dbad8665f1cb)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Dashboard:
+
+![Screenshot 2024-07-23 194925](https://github.com/user-attachments/assets/68699de6-ebb5-4cb2-9ff9-ef0448804969)
+
+## Link page:
+
+![Screenshot 2024-07-23 194945](https://github.com/user-attachments/assets/2e3cb2e9-461b-4f72-a9a7-17618868fb80)
